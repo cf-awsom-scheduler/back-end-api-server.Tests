@@ -1,0 +1,17 @@
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/back-end-api-server.Tests.deps.json
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/back-end-api-server.Tests.runtimeconfig.json
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/back-end-api-server.Tests.runtimeconfig.dev.json
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/back-end-api-server.Tests.dll
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/back-end-api-server.Tests.pdb
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/awsomAPI.dll
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/bin/Debug/netcoreapp2.2/awsomAPI.pdb
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/obj/Debug/netcoreapp2.2/back-end-api-server.Tests.csprojAssemblyReference.cache
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/obj/Debug/netcoreapp2.2/back-end-api-server.Tests.csproj.CoreCompileInputs.cache
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/obj/Debug/netcoreapp2.2/back-end-api-server.Tests.AssemblyInfoInputs.cache
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/obj/Debug/netcoreapp2.2/back-end-api-server.Tests.AssemblyInfo.cs
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/obj/Debug/netcoreapp2.2/back-end-api-server.Tests.csproj.CopyComplete
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/obj/Debug/netcoreapp2.2/back-end-api-server.Tests.dll
+/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/obj/Debug/netcoreapp2.2/back-end-api-server.Tests.pdb

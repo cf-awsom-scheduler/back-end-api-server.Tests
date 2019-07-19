@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/back-end-api-server.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/back-end-api-server.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/back-end-api-server.Tests.csproj",
+        "projectName": "back-end-api-server.Tests",
+        "projectPath": "/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/back-end-api-server.Tests.csproj",
+        "packagesPath": "/home/morgana/.nuget/packages/",
+        "outputPath": "/home/morgana/codefellows/401/final-project/back-end-api-server.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/morgana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/morgana/codefellows/401/final-project/back-end-api-server/awsomAPI.csproj": {
+                "projectPath": "/home/morgana/codefellows/401/final-project/back-end-api-server/awsomAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/morgana/codefellows/401/final-project/back-end-api-server/awsomAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/morgana/codefellows/401/final-project/back-end-api-server/awsomAPI.csproj",
+        "projectName": "awsomAPI",
+        "projectPath": "/home/morgana/codefellows/401/final-project/back-end-api-server/awsomAPI.csproj",
+        "packagesPath": "/home/morgana/.nuget/packages/",
+        "outputPath": "/home/morgana/codefellows/401/final-project/back-end-api-server/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/morgana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
